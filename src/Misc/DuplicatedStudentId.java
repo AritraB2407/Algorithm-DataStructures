@@ -1,3 +1,5 @@
+package Misc;
+
 public class DuplicatedStudentId {
     public static void main(String[] args) {
     int [] n = {10,20,30,50,70,10,30,90,40};
